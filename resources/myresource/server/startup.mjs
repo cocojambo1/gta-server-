@@ -1,1 +1,2 @@
-import * as alt from 'alt'
+import './modules/commands.mjs'
+import './modules/events.mjs'
